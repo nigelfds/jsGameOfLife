@@ -1,2 +1,11 @@
 open the game.html file in your browser to run.
-edit the game.js file to test or setup boards
+edit the game.js file to test or setup boards.
+
+TODO:
+Should a neighborhood object be passed into Node?
+ i.e
+ a = new Node(DEAD);
+ a.addNeighborhood(new Neighbourhood([a,b,c]));
+
+Might make testing easier.
+
